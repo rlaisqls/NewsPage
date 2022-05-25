@@ -5,7 +5,6 @@ server:
       charset: UTF-8
       enabled: true
       force: true
-
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
